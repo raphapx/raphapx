@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou focando estudos em **Ciência de dados(Python, Machine Learning e Estátistica)**
 
-- 👨‍💻 Todos os meus projetos estão em https://github.com/raphapx?tab=repositories](https://raphapx.github.io/
+- 👨‍💻 Todos os meus projetos estão em https://raphapx.github.io/
 
 - 📫 Me contate em **raphapx92@gmail.com**
 
