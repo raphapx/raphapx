@@ -1,9 +1,7 @@
 <h1 align="center">Oi 👋, Eu me chamo Raphael Pacheco</h1>
 <h3 align="center">Apaixonado por tecnologia e estudando Ciência de dados</h3>
 
-- 🔭 Estou trabalhando em um projeto sobre **Marketing Ciclismo**
-
-- 🌱 Atualmente estou focando estudos em **Ciência de dados(Python, Machine Learning e Estátistica)**
+- 🌱 Atualmente estou focando estudos em **Ciência de dados(Python, Machine Learning e Estátistica) e AWS**
 
 - 👨‍💻 Todos os meus projetos estão em https://raphapx.github.io/
 
